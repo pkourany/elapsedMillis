@@ -1,3 +1,4 @@
+#include "elapsedMillis/elapsedMillis.h"
 
 elapsedMillis timeElapsed; //declare global if you don't want it reset every time loop runs
 
