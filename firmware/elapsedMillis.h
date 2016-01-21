@@ -23,6 +23,8 @@
  * THE SOFTWARE.
  */
 
+#include "application.h"
+
 #ifndef elapsedMillis_h
 #define elapsedMillis_h
 
